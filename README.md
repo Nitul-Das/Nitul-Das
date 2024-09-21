@@ -1,4 +1,4 @@
-![logo](https://github.com/Nitul-Das/Nitul-Das/blob/main/Designer.png)
+![logo](https://github.com/Nitul-Das/Nitul-Das/blob/main/Design.png)
 <h1 align="center">Hi 👋, I'm Nitul Das</h1>
 <h3 align="center">A passionate developer</h3>
 
